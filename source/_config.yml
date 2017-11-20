@@ -78,6 +78,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
 - type: git
-  repo: https://serenata0719:sp@18202805980@github.com/serenata0719/serenata0719.github.io.git
+  repo: https://serenata0719:songpan123@github.com/serenata0719/serenata0719.github.io.git
   message: modified
   branch: master
